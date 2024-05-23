@@ -1,1 +1,1 @@
-Console.log("Everything is Perfect");
+console.log("Everything is Perfect");

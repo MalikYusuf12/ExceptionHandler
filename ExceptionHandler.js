@@ -1,1 +1,3 @@
-console.log("Everything is Perfect");
+window.onload = function() {
+    console.log("Everything is perfect!");
+  };
